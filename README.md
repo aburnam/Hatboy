@@ -1,0 +1,2 @@
+# Hatboy
+Hayboy is a sidescrolling platformer game developed in GameMaker Studio.  The goal of the game is to return the hats that have been stolen by the monsters in each level.  Each hat provides its own unique power-up, and the more hats you collect, the more powers you'll have and the better score you'll get at the end of the game!  Be careful though - if you get hit, all your hats will go flying, and you'll have to collect them all again.
